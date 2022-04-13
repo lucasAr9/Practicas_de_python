@@ -1,4 +1,4 @@
-<h1 align="center"> Práctica 1 </h1>
+<h1 align="center"> Trabajos de Práctica </h1>
 
 * Lucas Manuel Arrigoni
 * Legajo: 19352/0
