@@ -5,6 +5,8 @@
 
 ___
 
-[Practica_1](https://github.com/lucasAr9/Practicas_de_python/blob/main/practica_1.py)
+[Practica_1](https://github.com/lucasAr9/Practicas_de_python/blob/main/practica_1/practica_1.py)
 
 [Practica_2](https://github.com/lucasAr9/Practicas_de_python/blob/main/practica_2/punto_10.ipynb)
+
+[Practoca_3](https://github.com/lucasAr9/Practicas_de_python/tree/main/practica_3)
