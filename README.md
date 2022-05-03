@@ -9,4 +9,4 @@ ___
 
 [Practica_2](https://github.com/lucasAr9/Practicas_de_python/blob/main/practica_2/punto_10.ipynb)
 
-[Practoca_3](https://github.com/lucasAr9/Practicas_de_python/tree/main/practica_3)
+[Practica_3](https://github.com/lucasAr9/Practicas_de_python/tree/main/practica_3)
